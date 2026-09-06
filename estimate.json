@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-09-06",
+  "last_complete_day": "2026-09-05",
+  "last_burn_kcal": 2673,
+  "recent_7d_avg_kcal": 2568,
+  "estimate_today_kcal": 2568,
+  "estimate_tomorrow_kcal": 2568,
+  "expected_error_kcal": 206,
+  "model": {
+    "weight_recent": 1.0,
+    "backtest_mae": 206,
+    "baseline_mae": 224,
+    "days_used": 27
+  }
+}
